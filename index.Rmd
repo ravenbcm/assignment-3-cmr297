@@ -1,0 +1,11 @@
+---
+title: "Assignment 3"
+output: html_document
+---
+<br>  
+Here is Claire's Github:https://github.com/ravenbcm   
+Here is Raksha's Github: https://github.com/rkt25  
+
+<br>
+
+![colaboration is fun](https://www.proactiveworldwide.com/wp-content/uploads/2016/08/collaboration_lg.jpg)
