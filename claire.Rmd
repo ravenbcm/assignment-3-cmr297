@@ -6,4 +6,7 @@ output: html_document
 - I am a first year Plant Biology PhD student.  
 - I grew up on a farm.  
 - I'm craving chocolate covered strawberries right now.  
-- My favorite thing about Ithaca is the natural beauty/hiking.  
+- My favorite thing about Ithaca is the natural beauty/hiking.
+
+
+![](/Users/claireravenburg/Desktop/IMG_4928.jpg)
